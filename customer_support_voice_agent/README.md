@@ -26,8 +26,8 @@ An OpenAI SDK powered customer support agent application that delivers voice-pow
 1. **Setup Environment**
    ```bash
    # Clone the repository
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-   cd awesome-llm-apps/ai_agent_tutorials/ai_voice_agent_openaisdk
+   git clone https://github.com/ranasaurabh191/Ai-Agents/edit/main/customer_support_voice_agent/
+  
    
    # Install dependencies
    pip install -r requirements.txt
