@@ -1,0 +1,14 @@
+# Core app
+streamlit
+python-dotenv
+
+# Vector DB
+qdrant-client
+fastembed
+
+# LangChain utilities
+langchain
+langchain-community
+
+# Gemini (Google Generative AI SDK)
+google-generativeai
