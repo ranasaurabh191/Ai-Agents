@@ -15,8 +15,8 @@ A Streamlit application that combines video analysis and web search capabilities
 1. Clone the GitHub repository
 
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-cd ai_agent_tutorials/multimodal_ai_agent
+git clone https://github.com/ranasaurabh191/Ai-Agents/tree/main/multimodal_ai_agent
+cd multimodal_ai_agent
 ```
 2. Install the required dependencies:
 
